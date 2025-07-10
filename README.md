@@ -30,23 +30,23 @@ Download: Concrete_Data.xls (which i had provided or you can download from googl
 
 Features:
 
-      Cement (kg/m³)
+1. Cement (kg/m³)
       
-      Slag (kg/m³)
+2. Slag (kg/m³)
       
-      Fly Ash (kg/m³)
+3. Fly Ash (kg/m³)
       
-      Water (kg/m³)
+4. Water (kg/m³)
       
-      Superplasticizer (kg/m³)
+5. Superplasticizer (kg/m³)
       
-      Coarse Aggregate (kg/m³)
+6. Coarse Aggregate (kg/m³)
       
-      Fine Aggregate (kg/m³)
+7. Fine Aggregate (kg/m³)
       
-      Age (days)
+8. Age (days)
       
-      Compressive Strength (MPa)
+9. Compressive Strength (MPa)
 
 ---
 
