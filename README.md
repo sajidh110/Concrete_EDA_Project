@@ -26,7 +26,7 @@ Source: UCI Machine Learning Repository
 
 Name: Concrete Compressive Strength Data Set
 
-Download: Concrete_Data.xls (which i will provide in branch or you can download from google)
+Download: Concrete_Data.xls (which i had provided or you can download from google)
 
 Features:
 
